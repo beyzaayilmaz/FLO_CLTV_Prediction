@@ -1,4 +1,4 @@
-# CLTV Prediction with BG-NBD and Gamma-Gamma
+# FLO CLTV Prediction with BG-NBD and Gamma-Gamma
 
 ## Business Problem
 
