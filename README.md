@@ -56,4 +56,4 @@ The dataset consists of information obtained from the past shopping behaviors of
 - 1- Divide all your 6 month old customers into 4 groups (segments) and add the group names to the data set. Add it to the dataframe with the name cltv_segment.
 - 2- Make short 6-month action suggestions to the management for 2 groups that you will choose from among 4 groups.
 
-### BONUS: Functionalize the whole process.
+#### BONUS: Functionalize the whole process.
